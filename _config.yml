@@ -1,0 +1,19 @@
+layout_spectrum: 0.2978393016383052
+typography_spectrum: 0.026013091206550598
+color:
+  brandStrength: 0.8795543683227152
+  lightness: 0.24171095294877887
+  saturation: 0.07890150905586779
+  rhythmicContrast: 0.4160594562999904
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: immaculate symbols
+content: []
+title: Binary Sludge
+description: dredging the digital quagmire
+github: true
+url: 'https://thegrid.ai/binarysludge'
